@@ -5,12 +5,11 @@ Il Progetto A.S.C. è un insieme di tre software sviluppati con l’obbiettivo d
 
 Il progetto A.S.C. è un insieme di tre softwares, (effettivamente, in questo caso, possiamo parlare di due software in quanto, come capirete più avanti, il terzo software - Asc_Exchange - ha il compito di trasferire la messaggistica tra Server e Clients), progettati affinché vi sia uno standard di distribuzione e compilazione della messaggistica da parte di tutte le Unità Navali della Marina Militare e più nello specifico dagli Operatori A.S.C.. I Softwares lavorano su uno standard di riferimento che è delineato da una pubblicazione a livello Nato “ACP 126”.
 
-1.  Foo
-2.  Bar
-
 Gli obbiettivi del progetto, oltre quello appena citato che ritengo essere il più importante e quello per cui ho maggiormente lavorato, sono tanti e riguardano diversi ambiti, i principali sono:
-1. Fornire uno standard di distribuzione e compilazione della messaggistica da parte di tutte le Unità Navali della Marina Militare secondo quanto delineato da una pubblicazione a livello Nato “ACP 126”.
-2. Sostituire l’ormai obsoleto programma “COMP_127”: mantenersi aggiornati è fondamentale, abbiamo pensato che, gli stessi computer, sarebbe stati più funzionali con softwares aggiornati con le tecnologie più recenti possibili. Tre softwares con algoritmi il più “puliti” possibili, evitando in qualsiasi caso lo “spaghetti code”.
+1.  Fornire uno standard di distribuzione e compilazione della messaggistica da parte di tutte le Unità Navali della Marina Militare secondo quanto delineato da una pubblicazione a livello Nato “ACP 126”.
+
+2.  Sostituire l’ormai obsoleto programma “COMP_127”: mantenersi aggiornati è fondamentale, abbiamo pensato che, gli stessi computer, sarebbe stati più funzionali con softwares aggiornati con le tecnologie più recenti possibili. Tre softwares con algoritmi il più “puliti” possibili, evitando in qualsiasi caso lo “spaghetti code”.
+
 3. Affiancare i riferimenti di funzionamento dell’applicativo Outlook Exchange e l’architettura Server/Client in modo da poter distribuire tutta la messaggistica a Gruppi/Uffici/Utenti con un unico software (Asc_Server). Il che ha diversi vantaggi, tra cui:
  a. L’utente si abitua e impara l’utilizzo di un unico software.
  b. Gli operatori non devono cambiare da un software all’altro per trattare i diversi tipi di messaggi perdendo ulteriore tempo.
