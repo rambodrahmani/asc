@@ -1,0 +1,704 @@
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\bin\Debug\Asc.exe.config
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\bin\Debug\Asc.exe
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\bin\Debug\Asc.pdb
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\bin\Debug\Asc.xml
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.MainForm.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.Preferenze.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\bin\Debug\Asc.application
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.application
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\Asc\Asc\obj\x86\Debug\Asc.Codice.resources
+C:\Users\Rambod\Desktop\Asc\Asc\bin\Debug\Asc.exe.config
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Rambod\Desktop\Asc\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Rambod\Desktop\Asc\Asc\bin\Debug\Asc.application
+C:\Users\Rambod\Desktop\Asc\Asc\bin\Debug\Asc.exe
+C:\Users\Rambod\Desktop\Asc\Asc\bin\Debug\Asc.pdb
+C:\Users\Rambod\Desktop\Asc\Asc\bin\Debug\Asc.xml
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.Codice.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.Preferenze.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.application
+C:\Users\Rambod\Desktop\Asc\Asc\obj\x86\Debug\Asc.Main.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\bin\Debug\Asc.exe.config
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Raffaele\Desktop\Asc\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Raffaele\Desktop\Asc\Asc\bin\Debug\Asc.application
+C:\Users\Raffaele\Desktop\Asc\Asc\bin\Debug\Asc.exe
+C:\Users\Raffaele\Desktop\Asc\Asc\bin\Debug\Asc.pdb
+C:\Users\Raffaele\Desktop\Asc\Asc\bin\Debug\Asc.xml
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.Codice.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.Main.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.Preferenze.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Raffaele\Desktop\Asc\Asc\obj\x86\Debug\Asc.application
+G:\Asc\Asc\bin\Debug\Asc.exe.config
+G:\Asc\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+G:\Asc\Asc\obj\x86\Debug\Asc.exe
+G:\Asc\Asc\obj\x86\Debug\Asc.xml
+G:\Asc\Asc\obj\x86\Debug\Asc.pdb
+G:\Asc\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Asc\Asc\obj\x86\Debug\Asc.Accesso.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.Cerca.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.Codice.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.DateSelection.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.Main.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.MessageText.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.Resources.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.Preferenze.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.PrintSett.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.Uffici.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+G:\Asc\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+G:\Asc\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Asc\Asc\obj\x86\Debug\ResGen.read.1.tlog
+G:\Asc\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Asc\Asc\obj\x86\Debug\ResGen.write.1.tlog
+G:\Asc\Asc\bin\Debug\Asc.exe.manifest
+G:\Asc\Asc\bin\Debug\Asc.application
+G:\Asc\Asc\bin\Debug\Asc.exe
+G:\Asc\Asc\bin\Debug\Asc.pdb
+G:\Asc\Asc\bin\Debug\Asc.xml
+G:\Asc\Asc\obj\x86\Debug\Asc.exe.manifest
+G:\Asc\Asc\obj\x86\Debug\Asc.application
+G:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.exe.config
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.exe
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.xml
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.pdb
+G:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.exe.manifest
+G:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.application
+G:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.exe
+G:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.pdb
+G:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.xml
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Accesso.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Cerca.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Codice.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.DateSelection.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Main.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.MessageText.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Resources.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Preferenze.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.PrintSett.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Uffici.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\ResGen.read.1.tlog
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\ResGen.write.1.tlog
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.exe.manifest
+G:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.application
+R:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.exe.config
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.exe
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.xml
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.pdb
+R:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.exe.manifest
+R:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.application
+R:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.exe
+R:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.pdb
+R:\ASC_TAMPANO\Programma ASC\Asc\bin\Debug\Asc.xml
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Accesso.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Cerca.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Codice.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.DateSelection.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Main.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.MessageText.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Resources.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Preferenze.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.PrintSett.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.Uffici.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\ResGen.read.1.tlog
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\ResGen.write.1.tlog
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.exe.manifest
+R:\ASC_TAMPANO\Programma ASC\Asc\obj\x86\Debug\Asc.application
+C:\Users\Rambod\Downloads\Programma ASC\Asc\bin\Debug\Asc.exe.config
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Rambod\Downloads\Programma ASC\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Rambod\Downloads\Programma ASC\Asc\bin\Debug\Asc.application
+C:\Users\Rambod\Downloads\Programma ASC\Asc\bin\Debug\Asc.exe
+C:\Users\Rambod\Downloads\Programma ASC\Asc\bin\Debug\Asc.pdb
+C:\Users\Rambod\Downloads\Programma ASC\Asc\bin\Debug\Asc.xml
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.Main.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.Preferenze.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.application
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.LogIn.resources
+C:\Users\Rambod\Downloads\Programma ASC\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\bin\Debug\Asc.exe.config
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Rambod\Desktop\Programma ASC\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Rambod\Desktop\Programma ASC\Asc\bin\Debug\Asc.application
+C:\Users\Rambod\Desktop\Programma ASC\Asc\bin\Debug\Asc.exe
+C:\Users\Rambod\Desktop\Programma ASC\Asc\bin\Debug\Asc.pdb
+C:\Users\Rambod\Desktop\Programma ASC\Asc\bin\Debug\Asc.xml
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.LogIn.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.Main.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.Preferenze.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Rambod\Desktop\Programma ASC\Asc\obj\x86\Debug\Asc.application
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ASC_Server.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Preferenze.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Rambod\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+C:\Users\Rambod\Desktop\ASC Versions\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+G:\ASC SERVER CLIENT DEFINITIVO\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+F:\NUOVO SERVER\Nuova cartella\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+C:\Users\Raffaele\Desktop\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+F:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+G:\NUOVISSIMO SERVER 21 APRILE 2011\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+C:\Users\Rambod\Downloads\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe.manifest
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\bin\Debug\Asc.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Main.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.UfficiRemove.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe.manifest
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Programma ASC + ASC-Server\Asc\obj\x86\Debug\Asc.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\bin\Debug\Asc.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\bin\Debug\Asc.exe.manifest
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\bin\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\bin\Debug\Asc.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\bin\Debug\Asc.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\bin\Debug\Asc.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.Main.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.exe.manifest
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.RimuoviUffici.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Server\Asc\obj\x86\Debug\Asc.SearchResults.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\bin\Debug\Asc.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.vbproj.ResolveComReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\bin\Debug\Asc.exe.manifest
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\bin\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\bin\Debug\Asc.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\bin\Debug\Asc.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\bin\Debug\Asc.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.Accesso.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.Cerca.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.CloseDTB.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.ConnectedClientsList.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.DATABASE_INTELLIGENCE.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.INTEL22TerSelectionDate.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.LogIn.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.ContactsAdd.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.ContactsRemove.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.DATABASE_PARTENZE.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.DateSelection.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.Main.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.MessageText.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.Numerazione.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.DATABASE_ARRIVI.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.PrintSett.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.RimuoviUffici.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.SearchResults.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.Uffici.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.UfficiAdd.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.exe.manifest
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.application
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (1)\ASC Server\Asc\obj\x86\Debug\Asc.SplashScreen1.resources

@@ -1,0 +1,36 @@
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server_Autosender.Form1.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server_Autosender.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.pdb
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.exe
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.xml
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.pdb
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.exe
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.pdb
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.xml
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server_Autosender.Form1.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server_Autosender.Resources.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResGen.read.1.tlog
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResGen.write.1.tlog
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.exe
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.pdb
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\bin\Debug\Server Autosender.xml
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server_Autosender.Form1.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server_Autosender.Resources.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResGen.read.1.tlog
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\ResGen.write.1.tlog
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.exe
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.xml
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.pdb
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.exe
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.xml
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Server Autosender\Server Autosender\obj\x86\Debug\Server Autosender.pdb

@@ -1,0 +1,331 @@
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\bin\Debug\ASC - Client.xml
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Users\Rambod\Documents\Visual Studio 2010\Projects\VB Projects - Mine -\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\bin\Debug\ASC - Client.xml
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+C:\Users\Rambod\Desktop\ASC Versions\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+G:\ASC SERVER CLIENT DEFINITIVO\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+G:\ASC SERVER CLIENT DEFINITIVO\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+G:\ASC SERVER CLIENT DEFINITIVO\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+G:\ASC SERVER CLIENT DEFINITIVO\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+R:\ASC SERVER CLIENT DEFINITIVO\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+R:\ASC SERVER CLIENT DEFINITIVO\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+R:\ASC SERVER CLIENT DEFINITIVO\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+R:\ASC SERVER CLIENT DEFINITIVO\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\bin\Debug\ASC - Client.xml
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\bin\Debug\ASC - Client.xml
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Raffaele\Desktop\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\bin\Debug\ASC - Client.xml
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\ASC - Client\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\bin\Debug\ASC - Client.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\bin\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\bin\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\bin\Debug\ASC - Client.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\bin\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC - Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+G:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+G:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+G:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+G:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\NUOVISSIMO SERVER 23 APRILE 2011\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\asc\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rambod\Desktop\ASC Client\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\2\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\2\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\2\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\2\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+I:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SelezionaData.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SelezionaData.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+G:\File\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.IPAddress.resources
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.NomeUnita.resources
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Raffaele\Desktop\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.IPAddress.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.NomeUnita.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+H:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.IPAddress.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.NomeUnita.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.IPAddress.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.NomeUnita.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.IPAddress.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.NomeUnita.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.IPAddress.resources
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.NomeUnita.resources
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.read.1.tlog
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ResGen.write.1.tlog
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+F:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe.config
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.exe
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.xml
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.pdb
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.exe
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.pdb
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\bin\Debug\ASC - Client.xml
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Cerca.resources
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Form1.resources
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.IPAddress.resources
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.Resources.resources
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.NomeUnita.resources
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.PrintSett.resources
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SearchResults.resources
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC___Client.SplashScreen1.resources
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\ASC Client\ASC - Client\obj\x86\Debug\ASC - Client.vbproj.GenerateResource.Cache

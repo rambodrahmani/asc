@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BF07FA5C-459D-487E-8109-0AD90D80EE04}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Asc.My.MyApplication</StartupObject>
+    <RootNamespace>Asc</RootNamespace>
+    <AssemblyName>Asc</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Rambod\Desktop\Asc Install Files\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Asc.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Asc.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>3DSMax.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B7CC09100A8AC77694B45773332E82EB582497BD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>
+    </ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="22TerSelectionDate.Designer.vb">
+      <DependentUpon>22TerSelectionDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="22TerSelectionDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accesso.Designer.vb">
+      <DependentUpon>Accesso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accesso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cerca.Designer.vb">
+      <DependentUpon>Cerca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cerca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChatClient.vb" />
+    <Compile Include="CloseDTB.Designer.vb">
+      <DependentUpon>CloseDTB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CloseDTB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectedClientsList.Designer.vb">
+      <DependentUpon>ConnectedClientsList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectedClientsList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DATABASE INTELLIGENCE.Designer.vb">
+      <DependentUpon>DATABASE INTELLIGENCE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DATABASE INTELLIGENCE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INTEL22TerSelectionDate.Designer.vb">
+      <DependentUpon>INTEL22TerSelectionDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="INTEL22TerSelectionDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.vb">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactsAdd.Designer.vb">
+      <DependentUpon>ContactsAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContactsAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactsRemove.Designer.vb">
+      <DependentUpon>ContactsRemove.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContactsRemove.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DATABASE PARTENZE.Designer.vb">
+      <DependentUpon>DATABASE PARTENZE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DATABASE PARTENZE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateSelection.Designer.vb">
+      <DependentUpon>DateSelection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DateSelection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageText.Designer.vb">
+      <DependentUpon>MessageText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MessageText.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Numerazione.Designer.vb">
+      <DependentUpon>Numerazione.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Numerazione.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DATABASE ARRIVI.Designer.vb">
+      <DependentUpon>DATABASE ARRIVI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DATABASE ARRIVI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintSett.Designer.vb">
+      <DependentUpon>PrintSett.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSett.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RimuoviUffici.Designer.vb">
+      <DependentUpon>RimuoviUffici.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RimuoviUffici.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchResults.Designer.vb">
+      <DependentUpon>SearchResults.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchResults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uffici.Designer.vb">
+      <DependentUpon>Uffici.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Uffici.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UfficiAdd.Designer.vb">
+      <DependentUpon>UfficiAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UfficiAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="22TerSelectionDate.resx">
+      <DependentUpon>22TerSelectionDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accesso.resx">
+      <DependentUpon>Accesso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cerca.resx">
+      <DependentUpon>Cerca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CloseDTB.resx">
+      <DependentUpon>CloseDTB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectedClientsList.resx">
+      <DependentUpon>ConnectedClientsList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DATABASE INTELLIGENCE.resx">
+      <DependentUpon>DATABASE INTELLIGENCE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INTEL22TerSelectionDate.resx">
+      <DependentUpon>INTEL22TerSelectionDate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactsAdd.resx">
+      <DependentUpon>ContactsAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactsRemove.resx">
+      <DependentUpon>ContactsRemove.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DATABASE PARTENZE.resx">
+      <DependentUpon>DATABASE PARTENZE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateSelection.resx">
+      <DependentUpon>DateSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageText.resx">
+      <DependentUpon>MessageText.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Numerazione.resx">
+      <DependentUpon>Numerazione.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DATABASE ARRIVI.resx">
+      <DependentUpon>DATABASE ARRIVI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSett.resx">
+      <DependentUpon>PrintSett.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RimuoviUffici.resx">
+      <DependentUpon>RimuoviUffici.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchResults.resx">
+      <DependentUpon>SearchResults.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uffici.resx">
+      <DependentUpon>Uffici.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UfficiAdd.resx">
+      <DependentUpon>UfficiAdd.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Asc_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="3DSMax.ico" />
+    <Content Include="AscIcon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

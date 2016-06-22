@@ -1,0 +1,58 @@
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Form1.resources
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Resources.resources
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.exe
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.pdb
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.xml
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.exe
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.xml
+C:\Users\Rambod\documents\visual studio 2010\Projects\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.pdb
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.exe.config
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.exe
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.pdb
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.xml
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Accesso.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Form1.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Resources.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Settings.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Utenza.resources
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.exe
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.xml
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.pdb
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.exe.config
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.exe
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.xml
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.pdb
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.exe
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.pdb
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.xml
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Accesso.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Form1.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Resources.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Settings.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Utenza.resources
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\ResGen.read.1.tlog
+G:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.exe.config
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.exe
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.xml
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.pdb
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.exe
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.pdb
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.xml
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Accesso.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Form1.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Resources.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Settings.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc_Exchange.Utenza.resources
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rambod\Downloads\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\ResGen.write.1.tlog
+E:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.vbproj.GenerateResource.Cache
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\bin\Debug\Asc Exchange.exe.config
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.exe
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.xml
+I:\Microsoft VB-VC#-VC++-Java Project\Projects\Visual Studio 2010 - VB\ASC\Progetto ASC Server & Client (2)\Asc Exchange\Asc Exchange\obj\x86\Debug\Asc Exchange.pdb

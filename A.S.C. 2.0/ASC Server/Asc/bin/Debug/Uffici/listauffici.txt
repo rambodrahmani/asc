@@ -1,0 +1,29 @@
+Cdo
+Crop
+OPERAZIONI
+SISTEMA NAVE
+TAO
+AMMINISTRATIVO
+COORDINAMENTO
+Capo Comp CNME
+Capo Comp SENSORI
+Capo Comp MATERIALI
+Capo Comp SUSS
+Capo Nucleo COC
+Capo Nucleo PLANCIA
+Capo Nucleo RADIO
+Comandante
+Comandante II
+Segr SANITARIA
+Segr AMMINISTRATIVA
+Addetto NOS
+APC
+CIFRA
+Capo Rep AMMLOG
+Capo Rep SN
+Capo Rep TAO
+Capo Comp SCAFO
+Capo Comp ENERGIA
+Segr OPERAZIONI
+Cassiere
+Cassiere
