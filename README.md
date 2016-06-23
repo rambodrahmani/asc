@@ -49,23 +49,25 @@ Gli obbiettivi del progetto A.S.C., durante tutta la fase di sviluppo dei softwa
 
 Ad oggi sono fiero di poter affermare che non solo sono stati tutti gli obbiettivi di partenza del progetto, ma anche che durante l’oltre un anno di lavoro non ci siamo fermati davanti a niente. E molto probabilmente è questo che rende unico il progetto A.S.C. ai miei occhi: ho inserito in quei tre softwares tutte le funzionalità che avrei voluto avessero, il che, sempre e solo per me, lo rende il progetto perfetto. Il progetto A.S.C. è stato sviluppato esattamente come era stato pensato, nessuna rinuncia. Tutto ciò è stato ovviamente molto faticoso, ogni singolo pezzo dei tre softwares è stato "conquistato" poco a poco.
 
+
 ## Premiazione Progetto A.S.C.
 
 Il progetto A.S.C. ha vinto i seguenti premi a "I Giovani e Le Scienze 2012":
 
-### Intel Excellence in Computer Science Award at "I Giovani e Le Scienze 2012"
-### 16 Aprile 2012,
-### Wendy R. Hawkins - Executive Director, Intel Foundation.
+###### Intel Excellence in Computer Science Award at "I Giovani e Le Scienze 2012"
+###### 16 Aprile 2012,
+###### Wendy R. Hawkins - Executive Director, Intel Foundation.
 
-### 9th EXPO-SCIENCES EUROPE 2012 (ESE), Tula, Russia, 2 - 8 Luglio 2012.
-### Partecipazione alla 9^a ESE Tula (Federazione Russa), 2-7 Luglio 2012.
+###### 9th EXPO-SCIENCES EUROPE 2012 (ESE), Tula, Russia, 2 - 8 Luglio 2012.
+###### Partecipazione alla 9^a ESE Tula (Federazione Russa), 2-7 Luglio 2012.
+
 
 ## Pubblicazioni
 
 Sono disponibili le seguenti pubblicazioni che approfondiscono le funzionalita' del progetto:
 
-### Relazione A.S.C. Server 2.0: https://www.academia.edu/26413660/Relazione_A.S.C._Server_2.0
-### Progetto A.S.C. (Accettazione Smistamento e Controllo): https://www.academia.edu/8197102/Progetto_A.S.C._Accettazione_Smistamento_e_Controllo_
-### Introduction to ASC: Acceptance, Sorting and Control: https://www.academia.edu/8197031/Introduction_to_ASC_Acceptance_Sorting_and_Control
+###### Relazione A.S.C. Server 2.0: https://www.academia.edu/26413660/Relazione_A.S.C._Server_2.0
+###### Progetto A.S.C. (Accettazione Smistamento e Controllo): https://www.academia.edu/8197102/Progetto_A.S.C._Accettazione_Smistamento_e_Controllo_
+###### Introduction to ASC: Acceptance, Sorting and Control: https://www.academia.edu/8197031/Introduction_to_ASC_Acceptance_Sorting_and_Control
 
 Rambod Rahmani <<rambodrahmani@autistici.org>>
