@@ -51,5 +51,21 @@ Ad oggi sono fiero di poter affermare che non solo sono stati tutti gli obbietti
 
 ## Premiazione Progetto A.S.C.
 
+Il progetto A.S.C. ha vinto i seguenti premi a "I Giovani e Le Scienze 2012":
+
+### Intel Excellence in Computer Science Award at "I Giovani e Le Scienze 2012"
+### 16 Aprile 2012,
+### Wendy R. Hawkins - Executive Director, Intel Foundation.
+
+### 9th EXPO-SCIENCES EUROPE 2012 (ESE), Tula, Russia, 2 - 8 Luglio 2012.
+### Partecipazione alla 9^a ESE Tula (Federazione Russa), 2-7 Luglio 2012.
+
+## Pubblicazioni
+
+Sono disponibili le seguenti pubblicazioni che approfondiscono le funzionalita' del progetto:
+
+### Relazione A.S.C. Server 2.0: https://www.academia.edu/26413660/Relazione_A.S.C._Server_2.0
+### Progetto A.S.C. (Accettazione Smistamento e Controllo): https://www.academia.edu/8197102/Progetto_A.S.C._Accettazione_Smistamento_e_Controllo_
+### Introduction to ASC: Acceptance, Sorting and Control: https://www.academia.edu/8197031/Introduction_to_ASC_Acceptance_Sorting_and_Control
 
 Rambod Rahmani <<rambodrahmani@autistici.org>>
