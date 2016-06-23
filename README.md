@@ -54,7 +54,7 @@ Ad oggi sono fiero di poter affermare che non solo sono stati tutti gli obbietti
 
 Il progetto A.S.C. ha vinto i seguenti premi a "I Giovani e Le Scienze 2012":
 
-1.  Intel Excellence in Computer Science Award at "I Giovani e Le Scienze 2012"
+1.  Intel Excellence in Computer Science Award at "I Giovani e Le Scienze 2012" -
     16 Aprile 2012,
     Wendy R. Hawkins - Executive Director, Intel Foundation.
 
